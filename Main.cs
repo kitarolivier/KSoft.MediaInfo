@@ -102,7 +102,7 @@ namespace KSoft.MediaInfo
                         artist = info.Artist;
                     }
                 }
-                catch(Exception ex)
+                catch
                 {
 
                 }
