@@ -1,0 +1,34 @@
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\KSoft.MediaInfo.deps.json
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\KSoft.MediaInfo.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\KSoft.MediaInfo.pdb
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\Macro Deck 2.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\SQLite-net.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\Cottle.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\Fleck.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\Magick.NET-Q16-x64.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\Magick.NET.Core.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\GiphyDotNet.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\FastColoredTextBox.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\CefSharp.WinForms.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\Macro Deck 2.pdb
+D:\Data\Visual Studio\KSoft.MediaInfo\bin\Debug\netcoreapp3.1\Interop.WMLSS.dll
+C:\Users\odetr\AppData\Roaming\Macro Deck\plugins\KSoft.MediaInfo\netcoreapp3.1\KSoft.MediaInfo.deps.json
+C:\Users\odetr\AppData\Roaming\Macro Deck\plugins\KSoft.MediaInfo\netcoreapp3.1\KSoft.MediaInfo.dll
+C:\Users\odetr\AppData\Roaming\Macro Deck\plugins\KSoft.MediaInfo\netcoreapp3.1\KSoft.MediaInfo.pdb
+D:\Data\Visual Studio\KSoft.MediaInfo\obj\Debug\netcoreapp3.1\Interop.WMLSS.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\obj\Debug\netcoreapp3.1\KSoft.MediaInfo.csproj.ResolveComReference.cache
+D:\Data\Visual Studio\KSoft.MediaInfo\obj\Debug\netcoreapp3.1\KSoft.MediaInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Visual Studio\KSoft.MediaInfo\obj\Debug\netcoreapp3.1\KSoft.MediaInfo.AssemblyInfoInputs.cache
+D:\Data\Visual Studio\KSoft.MediaInfo\obj\Debug\netcoreapp3.1\KSoft.MediaInfo.AssemblyInfo.cs
+D:\Data\Visual Studio\KSoft.MediaInfo\obj\Debug\netcoreapp3.1\KSoft.MediaInfo.csproj.CoreCompileInputs.cache
+D:\Data\Visual Studio\KSoft.MediaInfo\obj\Debug\netcoreapp3.1\KSoft.MediaInfo.csproj.CopyComplete
+D:\Data\Visual Studio\KSoft.MediaInfo\obj\Debug\netcoreapp3.1\KSoft.MediaInfo.dll
+D:\Data\Visual Studio\KSoft.MediaInfo\obj\Debug\netcoreapp3.1\KSoft.MediaInfo.pdb
+D:\Data\Visual Studio\KSoft.MediaInfo\obj\Debug\netcoreapp3.1\KSoft.MediaInfo.PluginConfiguration.resources
+D:\Data\Visual Studio\KSoft.MediaInfo\obj\Debug\netcoreapp3.1\KSoft.MediaInfo.csproj.GenerateResource.cache
+D:\Data\Visual Studio\KSoft.MediaInfo\obj\Debug\netcoreapp3.1\KSoft.MediaInfo.csproj.AssemblyReference.cache

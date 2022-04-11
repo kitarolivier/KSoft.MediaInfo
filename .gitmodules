@@ -1,0 +1,6 @@
+[submodule "Plugins/Plugins/KSoft.MediaInfo"]
+	path = Plugins/Plugins/KSoft.MediaInfo
+	url = https://github.com/SuchByte/Macro-Deck-Extensions
+[submodule "Plugins/Ksoft.MediaInfo"]
+	path = Plugins/Ksoft.MediaInfo
+	url = https://github.com/SuchByte/Macro-Deck-Extensions
