@@ -2,7 +2,7 @@
     "type" : "Plugin",
     "name" : "KSoft.MediaInfo",
     "author" : "Olivier Detry",
-    "repository" : "https://github.com/kitarolivier/MacroDeck2-MediaInformation",
+    "repository" : "https://github.com/kitarolivier/KSoft.MediaInfo",
     "packageId" : "KSoft.MediaInfo",
     "version" : "1.0.0",
     "target-plugin-api-version" : 31,
